@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15F34" minimumToolsVersion="Xcode 7.0">
+    <entity name="Dog" representedClassName=".Dog" syncable="YES">
+        <attribute name="sex" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Preson" representedClassName=".Preson" syncable="YES">
+        <attribute name="age" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Dog" positionX="1215" positionY="-504" width="128" height="58"/>
+        <element name="Preson" positionX="1411" positionY="-523" width="128" height="73"/>
+    </elements>
+</model>
